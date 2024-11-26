@@ -1,4 +1,4 @@
-num1=45
+num1=70
 num2=35
 
 print(num1 + num2)
