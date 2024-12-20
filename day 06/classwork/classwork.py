@@ -4,7 +4,7 @@ age = input("please enter your age:")
 print("გამარჯობა შენი სახელია" + name + "შენი გვარია" + surname + "შენი ასაკია" + age)
 
 
-
+   
 
 
 
