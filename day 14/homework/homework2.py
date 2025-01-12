@@ -1,0 +1,10 @@
+print(True and False)#false
+print(False and True)#false
+print(False and False)#false
+print(True or False)#true
+print(False or True)#true
+print(10 == 19)#false
+print(20 != 5)#true
+print(34 <= 35)#true
+print(24 >= 25)#false
+print(30 < 29)#false
