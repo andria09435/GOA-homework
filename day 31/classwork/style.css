@@ -1,0 +1,29 @@
+.img-1{
+    border: 1px solid red;
+    width: 150px;
+    height: 150px;
+}
+
+.img-2{
+    border: 1px double blueviolet;
+    width: 200px;
+    height: 200px;
+}
+
+p{
+    text-align: center;
+}
+
+.p1{
+    color: blue;
+}
+
+.p2{
+    color: green;
+}
+
+.headings{
+    border: 1px solid blue;
+    color: blueviolet;
+    text-align: center;
+}

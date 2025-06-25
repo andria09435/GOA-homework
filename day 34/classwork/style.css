@@ -1,0 +1,26 @@
+.first-cls{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: blue;
+}
+
+.second-cls{
+    color:green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: aqua;
+}
+
+#first-pic{
+    width: 150px;
+    border-color: blue;
+}
+
+#second-pic{
+    width:200px;
+    border-color:brown;
+}
+
+#third-pic{
+    width:250px;
+    border-color: blueviolet;
+}

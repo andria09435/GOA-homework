@@ -1,0 +1,22 @@
+.conteiner {
+    width: 400px;
+}
+
+.progress {
+    padding: 6px;
+    background: #00000040;
+    border-radius: 30px;
+}
+
+.progress-bar {
+    height: 18px;
+    background-color: #bd47ef;
+    border-radius: 30px;
+    animation: andriaprogram 7s;
+}
+
+@keyframes andriaprogram {
+    0% {width: 0%; }
+    80% {width: 85%; }
+    100% {width: 100%; }
+}

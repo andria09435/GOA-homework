@@ -1,0 +1,10 @@
+#print(),input(),len(),str(),int(),float(),bool(),range()
+print("andria")
+input("enter your name")
+len("andria")
+str(77)
+int("22")
+float(7)
+bool(" ")
+for a in range(10):
+    print(a)
